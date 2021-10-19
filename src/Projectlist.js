@@ -5,12 +5,13 @@ import img4 from "./images/weather.jpg";
 import img5 from "./images/music.jpg";
 import img6 from "./images/e-com.jpg";
 import img7 from "./images/Chat_app.jpg"
-// import img3 from "./images/note-app.jpg";
+import img8 from "./images/amz.jpg";
+import img9 from "./images/TOdo.jpg";
 const Projectlist = [
     {
         img:img2,
         heading :"Food Website" ,
-        description :"This is responsive website are made by topics of react hooks,react-router-dom ,react-multi-carousel",
+        description :"This is responsive website are made by topics of react hooks,react-router-dom ,react-context-api",
         url : "https://siddhesh-mhatre.github.io/food-react-app/",
         categourey:"intermediate",
         technology:"React-js | Ajax | css"	
@@ -66,6 +67,23 @@ const Projectlist = [
         heading :"Note App" ,
         description :"use of react hooks and componets",
         url : "https://siddhesh-mhatre.github.io/React_NOTE_APP/",
+        categourey:"intermediate",
+        technology:"React-js"	
+    },
+    {
+        img:img8,
+        heading :"amazon clone" ,
+        description :"use of context-api,firebase(Authentication)",
+        url : "https://clone-7d28c.web.app/",
+        categourey:"intermediate",
+        technology:"React-js"	
+    },
+
+    {
+        img:img9,
+        heading :"Todo-list" ,
+        description :"use of react hooks and componets",
+        url : "https://siddhesh-mhatre.github.io/TodoList-with_react/",
         categourey:"intermediate",
         technology:"React-js"	
     },

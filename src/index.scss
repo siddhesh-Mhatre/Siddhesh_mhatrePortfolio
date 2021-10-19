@@ -490,6 +490,7 @@ footer {
     & .left-contenr p {
       width: 83%;
       margin: auto;
+      text-align: justify;
     }
 
     & .left-contenr .links {
@@ -522,7 +523,10 @@ footer {
     & .container {
       width: 90%;
     }
-
+    & .contact-info {
+width: auto;
+padding: 0;
+    }
     & .row {
       flex-direction: column;
       row-gap: 1rem;
@@ -541,7 +545,7 @@ footer {
     }
 
     & .animated-col {
-      width: 70%;
+      width: 90%;
     }
     & .progress-wrap {
       width: 90%;

@@ -5,6 +5,7 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import InstagramIcon from "@material-ui/icons/Instagram";
 import Typewriter from "typewriter-effect";
 import resume from "./Resume/Sid.pdf";
+import { GitHub } from "@material-ui/icons";
 function About() {
   return (
     <>
@@ -48,10 +49,10 @@ function About() {
                 , people I've mentored, and what I've written.
               </p>
               <ul className="links">
-                <a href="" style={{ color: "gray" }}>
+                <a href="https://github.com/siddhesh-Mhatre" style={{ color: "gray" }}>
                   {" "}
                   <li>
-                    <TwitterIcon />
+                    <GitHub />
                   </li>
                 </a>
                 <a

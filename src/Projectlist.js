@@ -93,7 +93,7 @@ const Projectlist = [
         img:img10,
         heading :"Todo-list" ,
         description :"redux implementation in react",
-        url : "https://siddhesh-mhatre.github.io/TodoList-with_react/",
+        url : "https://siddhesh-mhatre.github.io/Redux-cart/",
         categourey:"Advance",
         technology:"React-js"	
     },

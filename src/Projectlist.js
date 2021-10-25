@@ -7,6 +7,7 @@ import img6 from "./images/e-com.jpg";
 import img7 from "./images/Chat_app.jpg"
 import img8 from "./images/amz.jpg";
 import img9 from "./images/TOdo.jpg";
+import img10 from "./images/Redux.jpg";
 const Projectlist = [
     {
         img:img2,
@@ -85,6 +86,15 @@ const Projectlist = [
         description :"use of react hooks and componets",
         url : "https://siddhesh-mhatre.github.io/TodoList-with_react/",
         categourey:"intermediate",
+        technology:"React-js"	
+    },
+    
+    {
+        img:img10,
+        heading :"Todo-list" ,
+        description :"redux implementation in react",
+        url : "https://siddhesh-mhatre.github.io/TodoList-with_react/",
+        categourey:"Advance",
         technology:"React-js"	
     },
   ];

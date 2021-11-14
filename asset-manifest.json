@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Siddhesh_mhatrePortfolio/static/css/main.13553c4b.chunk.css",
-    "main.js": "/Siddhesh_mhatrePortfolio/static/js/main.661aae69.chunk.js",
-    "main.js.map": "/Siddhesh_mhatrePortfolio/static/js/main.661aae69.chunk.js.map",
+    "main.js": "/Siddhesh_mhatrePortfolio/static/js/main.b7dbedf2.chunk.js",
+    "main.js.map": "/Siddhesh_mhatrePortfolio/static/js/main.b7dbedf2.chunk.js.map",
     "runtime-main.js": "/Siddhesh_mhatrePortfolio/static/js/runtime-main.b4400dbd.js",
     "runtime-main.js.map": "/Siddhesh_mhatrePortfolio/static/js/runtime-main.b4400dbd.js.map",
-    "static/js/2.afc402f6.chunk.js": "/Siddhesh_mhatrePortfolio/static/js/2.afc402f6.chunk.js",
-    "static/js/2.afc402f6.chunk.js.map": "/Siddhesh_mhatrePortfolio/static/js/2.afc402f6.chunk.js.map",
+    "static/js/2.2e0e9b36.chunk.js": "/Siddhesh_mhatrePortfolio/static/js/2.2e0e9b36.chunk.js",
+    "static/js/2.2e0e9b36.chunk.js.map": "/Siddhesh_mhatrePortfolio/static/js/2.2e0e9b36.chunk.js.map",
     "index.html": "/Siddhesh_mhatrePortfolio/index.html",
     "static/css/main.13553c4b.chunk.css.map": "/Siddhesh_mhatrePortfolio/static/css/main.13553c4b.chunk.css.map",
-    "static/js/2.afc402f6.chunk.js.LICENSE.txt": "/Siddhesh_mhatrePortfolio/static/js/2.afc402f6.chunk.js.LICENSE.txt",
+    "static/js/2.2e0e9b36.chunk.js.LICENSE.txt": "/Siddhesh_mhatrePortfolio/static/js/2.2e0e9b36.chunk.js.LICENSE.txt",
     "static/media/Chat_app.e798b686.jpg": "/Siddhesh_mhatrePortfolio/static/media/Chat_app.e798b686.jpg",
     "static/media/Redux.04827b18.jpg": "/Siddhesh_mhatrePortfolio/static/media/Redux.04827b18.jpg",
     "static/media/Sid.243eae1c.pdf": "/Siddhesh_mhatrePortfolio/static/media/Sid.243eae1c.pdf",
@@ -18,6 +18,7 @@
     "static/media/cv-19.422cfc7b.jpg": "/Siddhesh_mhatrePortfolio/static/media/cv-19.422cfc7b.jpg",
     "static/media/e-com.94dd4669.jpg": "/Siddhesh_mhatrePortfolio/static/media/e-com.94dd4669.jpg",
     "static/media/food-web.49e25e19.jpg": "/Siddhesh_mhatrePortfolio/static/media/food-web.49e25e19.jpg",
+    "static/media/mern.b5c638e0.jpg": "/Siddhesh_mhatrePortfolio/static/media/mern.b5c638e0.jpg",
     "static/media/music.bbbff253.jpg": "/Siddhesh_mhatrePortfolio/static/media/music.bbbff253.jpg",
     "static/media/my.dd130062.png": "/Siddhesh_mhatrePortfolio/static/media/my.dd130062.png",
     "static/media/note-app.e392764b.jpg": "/Siddhesh_mhatrePortfolio/static/media/note-app.e392764b.jpg",
@@ -25,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b4400dbd.js",
-    "static/js/2.afc402f6.chunk.js",
+    "static/js/2.2e0e9b36.chunk.js",
     "static/css/main.13553c4b.chunk.css",
-    "static/js/main.661aae69.chunk.js"
+    "static/js/main.b7dbedf2.chunk.js"
   ]
 }

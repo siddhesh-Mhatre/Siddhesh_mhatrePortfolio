@@ -5,7 +5,7 @@ const Card = ({img,heading,description,technology,url	}) => {
     <>
       <div className="card" >
         <div className="overlay">
-          <h1><a href={url}>Webdevlopment</a></h1>
+          <h1><a href={url} style={{textDecoration:"none"}}>Webdevlopment</a></h1>
         </div>
 
         <div className="project-img">

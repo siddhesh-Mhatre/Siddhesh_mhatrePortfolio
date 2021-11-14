@@ -1,6 +1,5 @@
 import React from "react";
-import img1 from "C:/porfolio/portfolio/src/images/my.png";
-import TwitterIcon from "@material-ui/icons/Twitter";
+import img1 from "C:/porfolio/portfolio/src/images/my.png"; 
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import InstagramIcon from "@material-ui/icons/Instagram";
 import Typewriter from "typewriter-effect";

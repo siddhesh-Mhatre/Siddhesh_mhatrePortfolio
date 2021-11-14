@@ -8,6 +8,7 @@ import img7 from "./images/Chat_app.jpg"
 import img8 from "./images/amz.jpg";
 import img9 from "./images/TOdo.jpg";
 import img10 from "./images/Redux.jpg";
+import img11 from "./images/mern.jpg";
 const Projectlist = [
     {
         img:img2,
@@ -91,11 +92,19 @@ const Projectlist = [
     
     {
         img:img10,
-        heading :"Todo-list" ,
-        description :"redux implementation in react",
-        url : "https://siddhesh-mhatre.github.io/Redux-cart/",
+        heading :"Redux-MERN-cart" ,
+        description :"redux implementation in react-js with login and registraion with authentication and validation using express mongoDB nodeJS",
+        url : "https://redux-mern-cart.herokuapp.com/#/",
         categourey:"Advance",
-        technology:"React-js"	
+        technology:"React-js | mongoDB | express | nodeJS"	
+    },
+    {
+        img:img11,
+        heading :"MERN-WEB" ,
+        description :"login,registraion,and admin panel for control database",
+        url : "https://mernstacksiddheshmhatre.herokuapp.com/",
+        categourey:"Advance",
+        technology:"React-js | mongoDB | express | nodeJS"	
     },
   ];
   
